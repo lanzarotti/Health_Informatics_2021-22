@@ -9,11 +9,12 @@ To download the material click on the ```Clone or download``` green button that 
 
 ## Open/Execute files
 
-The files are _Jupyter Notebooks_ that execute _Python_ code. To Open/Execute these files you will need an account Google to use the Colaboratory ambient, or ypu should install Python (withthe required libraries) and Jupyter. 
-The easiest way to do so is to install the __Anaconda Environment__. It is fairly straightforward to install, 
-but can take some time so you must make sure this is done __before__ the lessons:
+The files are _Jupyter Notebooks_ that execute _Python_ code. To Open/Execute these files you will need an account Google to use the Colaboratory ambient.
 
-* Download and install the free version of Anaconda from its webpage: https://www.anaconda.com/download, selecting the Python 3.6 version __appropriate for your operating system__ (Windows, MacOS, Linux).
+Alternatively (IT IS NOT REQUIRED FOR THIS COURSE!  ), you should install Python (with the required libraries) and Jupyter. 
+The easiest way to do so is to install the __Anaconda Environment__. It is fairly straightforward to install:
+
+* Download and install the free version of Anaconda from its webpage: https://www.anaconda.com/download, selecting the Python version __appropriate for your operating system__ (Windows, MacOS, Linux).
 Choose the "Graphical Installer" if available and the 32bit or 64bit version depending on your system. If you are not sure about the type of you system, follow the instructions in [this web page](https://www.computerhope.com/issues/ch001121.htm) to find it out. Once you downloaded the correct version, you can proceed with the installation:
 
   * __Windows:__ the installer will be a ```.exe``` executable, and you can follow the setup as instructed
