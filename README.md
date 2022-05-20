@@ -2,10 +2,12 @@
 
 Repository for the material of the Health Informatics course. Module Lanzarotti Raffaella
 
-## Download lectures
-[lecture 11/05/2022](https://lanzarotti.di.unimi.it/lecture_Health_Informatics/video_11_05_2022.mp4) [Available one week]
+## Download lectures [Available until 20th June]
+[lecture 11/05/2022](https://lanzarotti.di.unimi.it/lecture_Health_Informatics/video_11_05_2022.mp4)  
 
-[lecture 16/05/2022](https://lanzarotti.di.unimi.it/lecture_Health_Informatics/video_16_05_2022.mp4) [Available one week]
+[lecture 16/05/2022](https://lanzarotti.di.unimi.it/lecture_Health_Informatics/video_16_05_2022.mp4) 
+
+[lecture 20/05/2022](https://lanzarotti.di.unimi.it/lecture_Health_Informatics/video_16_05_2022.mp4) 
 
 ## Download the material
 
